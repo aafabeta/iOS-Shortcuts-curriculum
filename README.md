@@ -15,7 +15,8 @@
 然後附上我自己的課表給你們參考  
 按照同樣的方法給他弄上去就對了  
 
-![Image](https://github.com/user-attachments/assets/2777756a-93c1-406a-aad6-4418705319ff)
+![IMG_1288](https://github.com/user-attachments/assets/0eae4472-981f-486c-88fc-fc0ac72f806d)
+
 
 如果有連幾節課是同一堂課  
 只要輸入一次就好 不要全部打  
